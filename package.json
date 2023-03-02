@@ -24,10 +24,7 @@
   "main": "lib/simplydjs.js",
   "name": "@levy.shahar05/simply-djs-test-v14",
   "scripts": {
-    "dev": "npm publish --tag dev",
-    "git": "sh ./gitpush.sh",
-    "prepare": "husky install",
-    "test": "node test"
+    "dev": "npm publish --tag dev"
   },
   "typings": "typings/simplydjs.d.ts",
   "version": "4.7.6",
