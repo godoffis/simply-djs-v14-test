@@ -16,6 +16,10 @@
     "husky": "^7.0.4",
     "pretty-quick": "^3.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godoffis/simply-djs-v14-test.git"
+  },
   "license": "(ISC OR GPL-3.0)",
   "main": "lib/simplydjs.js",
   "name": "@levy.shahar05/simply-djs-test-v14",
